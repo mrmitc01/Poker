@@ -42,13 +42,17 @@ makefile - to build the Simplified Poker Game program
 
 
 Compile the source code for the full Poker Game program by typing the following at the prompt $:
+
 $ make  
 
+
 Compile the source code for only the Test Poker Game program by typing the following at the prompt $:
+
 $ make testPokerGame
 
+
 Clean up the mess by typing the following at the prompt $:
+
 $ make clean
 
 Code is available upon request
-
